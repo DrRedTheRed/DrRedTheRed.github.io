@@ -12,4 +12,4 @@ Assignments for the Numerical Methods of Zhejiang University by Dr.Red. Update r
 {% pdf https://drive.google.com/file/d/1umTdsfcUBgg76hR6mkXWAqw3j-VoZCof/preview %}
 
 **Assignment #1**
-{% pdf https://drive.google.com/file/d/1Fg7_wFJveM5AskkhFMn95VCb0Xk1nZFr/view?usp=drive_link}
+{% pdf https://drive.google.com/file/d/1Fg7_wFJveM5AskkhFMn95VCb0Xk1nZFr/preview %}
