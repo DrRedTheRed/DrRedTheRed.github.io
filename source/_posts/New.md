@@ -29,4 +29,4 @@ Assignments for the Numerical Methods of Zhejiang University by Dr.Red. Update r
 
 求根的非常多的方法。很简单，没什么好说的。值得注意的是不动点法如果不经过转换，会直接飞出去。所以千万不要直接上。
 
-{%d pdf https://drive.google.com/file/d/1PnjxvmgTgq4efhCAQBp-STJ1cRyUI8YD/preview %}
+{% pdf https://drive.google.com/file/d/1VSLn79VU7BMeVu2Rc47fIUhqY-upRWa4/preview %}
