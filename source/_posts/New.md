@@ -24,3 +24,9 @@ Assignments for the Numerical Methods of Zhejiang University by Dr.Red. Update r
 复习了一遍积分的递推公式。这里很有意思的点在于，递推需要考虑算法的收敛性。一开始正着递推误差会阶乘式爆炸性变大，而倒着推就会减小，所以采用倒推法。不过这需要超前的Newton-Cotes法等知识，不建议使用。
 
 {% pdf https://drive.google.com/file/d/1Fg7_wFJveM5AskkhFMn95VCb0Xk1nZFr/preview %}
+
+**Assignment #2**
+
+求根的非常多的方法。很简单，没什么好说的。值得注意的是不动点法如果不经过转换，会直接飞出去。所以千万不要直接上。
+
+{%d pdf https://drive.google.com/file/d/1PnjxvmgTgq4efhCAQBp-STJ1cRyUI8YD/preview %}
